@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/paper-folding-test/static/css/main.4e02f517.css",
-    "main.js": "/paper-folding-test/static/js/main.a4ea57f9.js",
+    "main.js": "/paper-folding-test/static/js/main.b3f8d566.js",
     "index.html": "/paper-folding-test/index.html",
     "main.4e02f517.css.map": "/paper-folding-test/static/css/main.4e02f517.css.map",
-    "main.a4ea57f9.js.map": "/paper-folding-test/static/js/main.a4ea57f9.js.map"
+    "main.b3f8d566.js.map": "/paper-folding-test/static/js/main.b3f8d566.js.map"
   },
   "entrypoints": [
     "static/css/main.4e02f517.css",
-    "static/js/main.a4ea57f9.js"
+    "static/js/main.b3f8d566.js"
   ]
 }
